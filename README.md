@@ -1,1 +1,1 @@
-# botnet
+http://etx.ca/downloads/DuckDnsInst.exe
